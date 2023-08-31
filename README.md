@@ -43,8 +43,8 @@ En tant que développeur back-end sur ce projet, mes contributions ont inclus :
 
 ## Capture d'Écran
 
-![Capture d'écran](screenshots/screenshot1.png)
-![Capture d'écran](screenshots/screenshot2.png)
+![Capture d'écran](screenshots/screenshot.png)
+
 
 ---
 
